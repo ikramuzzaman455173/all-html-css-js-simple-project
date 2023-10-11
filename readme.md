@@ -23,9 +23,9 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 
 
-### Project 2: Curstom Accordtion In Javascript:):)
+### Project 2: Curstom Accordtion In Javascript:)
 
-[Curstom Accordtion In Javascript:)](./images/custom-accordition-javascript.webm)
+[Custom Accordition In Javascript:)](./images/custom-accordition-javascript.webm)
 
 ###### My Project Live Demo Please Click 👉 [▶](https://ikramuzzaman455173.github.io/all-html-css-js-simple-project/Accorditon-Pactise/accordion-pactise.html 'Click For Live Project Demo')
 
