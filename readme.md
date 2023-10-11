@@ -8,7 +8,7 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 - [Table of Contents](#table-of-contents)
   - [Project 1: Filterable image gallery in javascript:)](#project-1-filterable-image-gallery-in-javascript)
-  - [Project 2: Curstom Accordtion In Javascript:)](#project-2-custom-accordition-in-javascript)
+  - [Project 2: Custom Accordition In Javascript:)](#project-2-custom-accordition-in-javascript)
 - [Feedback and Contact](#feedback-and-contact)
 
 ### Project 1: Filterable image gallery in javascript:)
@@ -23,9 +23,9 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 
 
-### Project 2: Curstom Accordtion In Javascript:)
+### Project 2: Custom Accordition In Javascript:)
 
-[Custom Accordition In Javascript:)](./images/custom-accordition-javascript.webm)
+[custom-accordition-javascript.webm](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project/assets/106922916/3dfdb1dd-7f9b-47fe-8065-6e6c850f42f0)
 
 ###### My Project Live Demo Please Click 👉 [▶](https://ikramuzzaman455173.github.io/all-html-css-js-simple-project/Accorditon-Pactise/accordion-pactise.html 'Click For Live Project Demo')
 
