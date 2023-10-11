@@ -23,15 +23,15 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 
 
+
 ### Project 2: Curstom Accordtion In Javascript:)
 
-[Custom Accordition In Javascript:)](./images/custom-accordition-javascript.webm)
+[Custom Accordition In Javascript:)]()
 
 ###### My Project Live Demo Please Click 👉 [▶](https://ikramuzzaman455173.github.io/all-html-css-js-simple-project/Accorditon-Pactise/accordion-pactise.html 'Click For Live Project Demo')
 
 
 ###### My project source code github repo link 👉 [▶](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project/tree/main/Accorditon-Pactise 'Click For Live Project Demo')
-
 
 
 
