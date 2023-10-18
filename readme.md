@@ -37,9 +37,9 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 
 
-### Project 2: Infinite scrolling animation only css:)
+### Project 3: Infinite scrolling animation only css:)
 
-[Infinite scrolling animation only css](./images/css-text-infinite-scroll-animaton.webm)
+[css-text-infinite-scroll-animaton.webm](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project/assets/106922916/7dfcba3e-d021-47b1-bc21-6d451337b734)
 
 ###### My Project Live Demo Please Click 👉 [▶](https://ikramuzzaman455173.github.io/all-html-css-js-simple-project/Infinitnite-scrolling-animation-css-only-text-and-image 'Click For Live Project Demo')
 
