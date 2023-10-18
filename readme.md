@@ -9,6 +9,8 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 - [Table of Contents](#table-of-contents)
   - [Project 1: Filterable image gallery in javascript:)](#project-1-filterable-image-gallery-in-javascript)
   - [Project 2: Custom Accordition In Javascript:)](#project-2-custom-accordition-in-javascript)
+  - [Project 3: Infinite scrolling animation only css:)](#project-2-infinite-scrolling-animation-only-css)
+
 - [Feedback and Contact](#feedback-and-contact)
 
 ### Project 1: Filterable image gallery in javascript:)
@@ -31,6 +33,18 @@ Welcome to my project showcase repository! Here, you'll find a collection of my 
 
 
 ###### My project source code github repo link 👉 [▶](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project/tree/main/Accorditon-Pactise 'Click For Live Project Demo')
+
+
+
+
+### Project 2: Infinite scrolling animation only css:)
+
+[Infinite scrolling animation only css](./images/css-text-infinite-scroll-animaton.webm)
+
+###### My Project Live Demo Please Click 👉 [▶](https://ikramuzzaman455173.github.io/all-html-css-js-simple-project/Infinitnite-scrolling-animation-css-only-text-and-image 'Click For Live Project Demo')
+
+
+###### My project source code github repo link 👉 [▶](https://github.com/ikramuzzaman455173/all-html-css-js-simple-project/tree/main/Infinitnite-scrolling-animation-css-only-text-and-image 'Click For Live Project Demo')
 
 
 
